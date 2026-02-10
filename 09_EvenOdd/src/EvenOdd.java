@@ -1,7 +1,7 @@
 public class EvenOdd {
     public static void main(String[] args) throws Exception {
         
-        int num = 25;
+        int num = 26;
 
         if(num % 2 == 0) {
             System.out.println("Number is Even");
