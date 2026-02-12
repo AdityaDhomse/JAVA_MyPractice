@@ -1,4 +1,4 @@
-public class isEvenOdd {
+public class IsEvenOdd {
 
     public static boolean isEven(int num) {
         return num % 2 == 0;
